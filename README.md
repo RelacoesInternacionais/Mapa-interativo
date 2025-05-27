@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Carreira Diplomática</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    nav {
+      background: #0055a5;
+      color: white;
+      padding: 12px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #003366;
+    }
+    img {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Carreira de Diplomata</h1>
+    <p>Descubra o universo da diplomacia brasileira</p>
+  </header>
+
+  <nav>
+    <a href="#atuacao">Atuação</a>
+    <a href="#cargos">Cargos</a>
+    <a href="#salarios">Salários</a>
+    <a href="#motivos">Motivos</a>
+  </nav>
+
+  <section id="atuacao">
+    <h2>Área de Atuação</h2>
+    <img src="https://images.unsplash.com/photo-1603395071772-4e7dc1a28f20?auto=format&fit=crop&w=900&q=60" alt="Diplomacia e reuniões internacionais">
+    <p>Diplomatas representam o Brasil no exterior, negociam acordos, promovem o país em conferências e protegem brasileiros fora do território nacional.</p>
+  </section>
+
+  <section id="cargos">
+    <h2>Cargos Diplomáticos</h2>
+    <img src="https://images.unsplash.com/photo-1611926653458-76f1a65a1d27?auto=format&fit=crop&w=900&q=60" alt="Cargos diplomáticos">
+    <h3>Primeiro-Secretário</h3>
+    <p>Assessoramento, representação e atuação consular. Envolve temas como comércio, direitos humanos e meio ambiente.</p>
+    <h3>Conselheiro</h3>
+    <p>Liderança de áreas estratégicas, representação em fóruns internacionais e atuação em negociações complexas.</p>
+    <h3>Ministro de Segunda Classe</h3>
+    <p>Chefia missões diplomáticas, departamentos no Itamaraty e participa das decisões estratégicas da política externa.</p>
+  </section>
+
+  <section id="salarios">
+    <h2>Remuneração (2025-2026)</h2>
+    <img src="https://images.unsplash.com/photo-1579621970795-87facc2f976d?auto=format&fit=crop&w=900&q=60" alt="Salário e benefícios">
+    <ul>
+      <li><strong>Primeiro-Secretário:</strong> R$ 28.802,77 a R$ 34.625,89</li>
+      <li><strong>Conselheiro:</strong> R$ 31.066,97 a R$ 39.907,24</li>
+      <li><strong>Ministro de Segunda Classe:</strong> R$ 33.659,10 a R$ 43.250,56</li>
+    </ul>
+  </section>
+
+  <section id="motivos">
+    <h2>Por que escolher a diplomacia?</h2>
+    <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&q=60" alt="Motivos para ser diplomata">
+    <ul>
+      <li>Experiência internacional e intercultural</li>
+      <li>Impacto direto na política externa do Brasil</li>
+      <li>Contato com temas globais como clima, direitos humanos e comércio</li>
+      <li>Reconhecimento e desafios intelectuais constantes</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Fonte: MRE, Sinditamaraty, Direção Concursos, Curso Sapientia</p>
+  </footer>
+
+</body>
+</html>
